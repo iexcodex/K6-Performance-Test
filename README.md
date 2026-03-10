@@ -507,9 +507,8 @@ Bulguları incele
 
 **K6 Pentest Team**
 
-- GitHub: [@username](https://github.com/username)
-- Twitter: [@username](https://twitter.com/username)
-- Email: [email@example.com](mailto:email@example.com)
+- GitHub: [@iexcode | NUH YILMAZ](https://github.com/iexcodex)
+- Email: [info@iexcode.com](mailto:info@iexcode.com)
 
 ---
 
