@@ -62,7 +62,7 @@ pip install requests urllib3
 ### Adım 2: Script'i İndir
 
 ```bash
-git clone https://github.com/[username]/k6-pentest.git
+git clone https://github.com/[iexcodex]/k6-pentest.git
 cd k6-pentest
 ```
 
